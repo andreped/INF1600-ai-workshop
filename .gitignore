@@ -3,3 +3,7 @@ venv/
 *.jpeg
 *.png
 flagged/
+*.DS_Store
+*__pycache__/
+*.vs/
+*.idea/

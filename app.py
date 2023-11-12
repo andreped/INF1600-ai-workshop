@@ -42,7 +42,7 @@ def main():
     labels = load_label_data()
     examples=[
         ['https://github.com/andreped/INF1600-ai-workshop/releases/download/Examples/cat.jpg'],
-        ['https://github.com/andreped/INF1600-ai-workshop/releases/download/Examples/dog.jpeg']
+        ['https://github.com/andreped/INF1600-ai-workshop/releases/download/Examples/dog.jpeg'],
     ]
 
     # define UI
