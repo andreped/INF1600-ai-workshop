@@ -13,10 +13,7 @@ app_file: app.py
 
 # INF-1600 AI Deployment workshop
 
-This workshop was developed for the _"Intro to Artificial Intelligence"_ course with
-code INF-1600 at UiT: The Arctic University of Norway.
-
-The workshop was a collaboration with UiT and Sopra Steria.
+This workshop was developed for the _"Intro to Artificial Intelligence"_ course at UiT: The Arctic University of Norway in collaboration with Sopra Steria.
 
 In this workshop, you will get hands on experience with:
 * Cloning and pushing code from/to [GitHub](https://github.com).
@@ -31,6 +28,10 @@ And of course, all of this completely **_FOR FREE_**!
 
 * [André Pedersen](https://github.com/andreped), Apps, Sopra Steria
 * [Tor-Arne Schmidt Nordmo](https://uit.no/ansatte/person?p_document_id=581687), IFI, UiT: The Arctic University of Norway
+
+## Demo
+
+<img width="1314" alt="Screenshot 2023-11-12 at 22 22 52" src="https://github.com/andreped/INF1600-ai-workshop/assets/29090665/828c390c-f179-48a6-85dc-19d207a0c42c">
 
 ## Getting Started
 
