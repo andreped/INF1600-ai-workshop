@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 6. To test if everything is working, try to run the following command to launch the web server:
 ```
-python3 app.py
+python app.py
 ```
 
 7. You can then access the web app by going to [http://127.0.0.1:7860](http://127.0.0.1:7860) in your favourite web browser.
@@ -84,6 +84,8 @@ We are now given the option to manually add the relevant files, but that is bori
 14. From the Hugging Face website [here](https://huggingface.co), click on your user badge (top right), and from the dropdown clik `Settings`.
 On the left hand side of `Settings` site, click `Access Tokens`, and then click `New Token`.
 Set the name `HF_TOKEN`, set permissions to `write`, and click `Generate a token`.
+
+15. Then you need to make the same token available in your GitHub fork. Go to your fork, go the the repo `Settings > Secrets and variables > Actions` and click the green `New repository secret`. Set `HF_TOKEN` as `name` and copy the TOKEN you created previously on Hugging Face by going to `Hugging Face > Settings > Access Tokens > Select token > Click show`.
 
 15. On your laptop, open the file located at `.github/workflows/deploy.yml`, and at the last line, replace the `andreped` and `andreped/ViT-ImageClassifier` phrases with your own
 Hugging Face user and space name.
