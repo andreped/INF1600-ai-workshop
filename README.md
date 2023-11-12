@@ -99,7 +99,7 @@ git push --force space main
 
 20. Then click the `Actions` tab to see running workflows. Verify that the workflow ran successfully by clicking the current run and checking workflow status.
 
-21. Finally, we can then head over to our Hugging Face space and check if everything is working. My own app is hosted at [https://huggingface.co/spaces/andreped/ViT-ImageClassifier](https://huggingface.co/spaces/andreped/ViT-ImageClassifier)
+21. Finally, we can then head over to our Hugging Face space and check if everything is working. My own app is hosted at [https://huggingface.co/spaces/andreped/ViT-ImageClassifier](https://huggingface.co/spaces/andreped/ViT-ImageClassifier).
 
 ## Workshop Organizers
 
