@@ -121,7 +121,7 @@ If you want, you can try to reproduce the steps above with [this other repo](htt
 
 You can click the badge to access the deployed app on Hugging Face: <a target="_blank" href="https://huggingface.co/spaces/andreped/vit-explainer"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-yellow.svg"></a>
 
-![Screenshot 2023-11-14 at 12 49 31](https://github.com/andreped/INF1600-ai-workshop/assets/29090665/0890b0c5-6e98-449e-8c07-7763999dd72c)
+<img width="1283" alt="282330601-1fe47bb5-625d-4717-9348-53930d5129dc" src="https://github.com/andreped/INF1600-ai-workshop/assets/29090665/45fde51d-b956-4e70-b9c4-e2e61ced66de">
 
 ## License
 
