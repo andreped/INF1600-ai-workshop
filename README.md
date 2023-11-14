@@ -13,6 +13,9 @@ app_file: app.py
 
 # INF-1600 AI Deployment workshop
 
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/raidionics/AeroPath/blob/main/LICENSE.md)
+<a target="_blank" href="https://huggingface.co/spaces/andreped/ViT-ImageClassifier"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-yellow.svg"></a>
+
 This workshop was developed for the _"Intro to Artificial Intelligence"_ course at UiT: The Arctic University of Norway in collaboration with Sopra Steria.
 
 In this workshop, you will get hands on experience with:
@@ -109,6 +112,16 @@ Go to `Settings > Access Tokens > Select token > Click show`.
 19. Then click the `Actions` tab to see running workflows. Verify that the workflow ran successfully by clicking the current run and checking workflow status.
 
 20. Finally, we can then head over to our Hugging Face space and check if everything is working. My own app is hosted at [https://huggingface.co/spaces/andreped/ViT-ImageClassifier](https://huggingface.co/spaces/andreped/ViT-ImageClassifier).
+
+## Bonus task for speedy bois and gals
+
+Based on this app, we have extended it to enable interpretation of the AI model. This technique is called Explainable AI (XAI).
+
+If you want, you can try to reproduce the steps above with [this other repo](https://github.com/andreped/vit-explainer).
+
+You can click the badge to access the deployed app on Hugging Face: <a target="_blank" href="https://huggingface.co/spaces/andreped/vit-explainer"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-yellow.svg"></a>
+
+![Screenshot 2023-11-14 at 12 49 31](https://github.com/andreped/INF1600-ai-workshop/assets/29090665/0890b0c5-6e98-449e-8c07-7763999dd72c)
 
 ## License
 
