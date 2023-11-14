@@ -10,6 +10,7 @@ license: mit
 app_file: app.py
 ---
 
+<img width="1082" alt="example_3" src="https://github.com/andreped/INF1600-ai-workshop/assets/29090665/0a1817e6-3561-4b85-b90c-c7f7989d72a3">
 
 # INF-1600 AI Deployment workshop
 
@@ -24,8 +25,11 @@ In this workshop, you will get hands on experience with:
 * Developing a simple web application to enable users to test a pretrained model using [Gradio](https://pypi.org/project/gradio/).
 * Making a public web app anyone can access using [Hugging Face Spaces](https://huggingface.co/spaces).
 * Automizing tasks using [GitHub Actions](https://github.com/features/actions).
+* Explainable AI of Vision Transformers using [transformers-interpret](https://github.com/cdpierse/transformers-interpret).
 
 And of course, all of this completely **_FOR FREE_**!
+
+Some truely amazing saliency maps were submitted from the students. The submitted images are made available in [Releases](https://github.com/andreped/INF1600-ai-workshop/releases/tag/Student-Examples).
 
 ## Workshop Organizers
 
