@@ -46,6 +46,11 @@ And of course, all of this completely **_FOR FREE_**!
 ```
 git clone https://github.com/<username>/INF1600-ai-workshop.git
 ```
+Move into the new directory:
+```
+cd INF-1600-ai-workshop
+```
+
 
 4. After cloning, go inside the repository, and from the terminal run these lines to create a virtual environment and activate it:
 ```
