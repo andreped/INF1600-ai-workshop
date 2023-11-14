@@ -15,7 +15,8 @@ app_file: app.py
 # INF-1600 AI Deployment workshop
 
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/raidionics/AeroPath/blob/main/LICENSE.md)
-<a target="_blank" href="https://huggingface.co/spaces/andreped/ViT-ImageClassifier"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-yellow.svg"></a>
+<a target="_blank" href="https://huggingface.co/spaces/andreped/ViT-ImageClassifier"><img src="https://img.shields.io/badge/🤗%20HF%20ViT-ImageClassifier-yellow.svg"></a>
+<a target="_blank" href="https://huggingface.co/spaces/andreped/vit-explainer"><img src="https://img.shields.io/badge/🤗%20HF%20ViT-Explainer-yellow.svg"></a>
 
 This workshop was developed for the _"Intro to Artificial Intelligence"_ course at UiT: The Arctic University of Norway in collaboration with Sopra Steria.
 
