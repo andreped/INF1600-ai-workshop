@@ -90,7 +90,7 @@ But of course, hosting the app yourself from your laptop is not ideal. What if t
 
 We are now given the option to manually add the relevant files, but that is boring... Let's instead try to setup a robot that does that for us!
 
-14. From the Hugging Face website [here](https://huggingface.co), click on your user badge (top right), and from the dropdown clik `Settings`.
+14. From the Hugging Face website [here](https://huggingface.co), click on your user badge (top right), and from the dropdown click `Settings`.
 On the left hand side of `Settings` site, click `Access Tokens`, and then click `New Token`.
 Set the name `HF_TOKEN`, set permissions to `write`, and click `Generate a token`.
 
