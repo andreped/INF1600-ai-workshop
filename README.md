@@ -104,7 +104,7 @@ Hugging Face user and space name.
 git remote add space https://huggingface.co/spaces/andreped/ViT-ImageClassifier
 ```
 
-17. Then push the code to GitHub by running:
+17. Then push the code to HuggingFace by running to enable syncronization (only needed to do once):
 ```
 git push --force space main
 ```
@@ -112,11 +112,18 @@ git push --force space main
 The first time, you will be promoted to give your username and password. When giving the password, you need to give the `HF_TOKEN` you defined earlier.
 Go to `Settings > Access Tokens > Select token > Click show`.
 
-18. Now go to your GitHub fork (e.g., `https://github.com/<username>/INF1600-ai-workshop/`) and verify that the code is there.
+18. Then push the code to GitHub by:
+```
+git add .
+git commit -m "Some changes"
+git push
+```
 
-19. Then click the `Actions` tab to see running workflows. Verify that the workflow ran successfully by clicking the current run and checking workflow status.
+19. Now go to your GitHub fork (e.g., `https://github.com/<username>/INF1600-ai-workshop/`) and verify that the code is there.
 
-20. Finally, we can then head over to our Hugging Face space and check if everything is working. My own app is hosted at [https://huggingface.co/spaces/andreped/ViT-ImageClassifier](https://huggingface.co/spaces/andreped/ViT-ImageClassifier).
+20. Then click the `Actions` tab to see running workflows. Verify that the workflow ran successfully by clicking the current run and checking workflow status.
+
+21. Finally, we can then head over to our Hugging Face space and check if everything is working. My own app is hosted at [https://huggingface.co/spaces/andreped/ViT-ImageClassifier](https://huggingface.co/spaces/andreped/ViT-ImageClassifier).
 
 ## Bonus task for speedy bois and gals
 
