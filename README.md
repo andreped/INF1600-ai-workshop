@@ -44,7 +44,7 @@ And of course, all of this completely **_FOR FREE_**!
 
 3. Now you are ready to clone your own fork to a laptop by opening a terminal and running (remember to replace `<username>` with your own GitHub user name):
 ```
-git clone git+https://github.com/<username>/INF1600-ai-workshop.git
+git clone https://github.com/<username>/INF1600-ai-workshop.git
 ```
 
 4. After cloning, go inside the repository, and from the terminal run these lines to create a virtual environment and activate it:
